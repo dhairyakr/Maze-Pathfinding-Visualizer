@@ -27,6 +27,7 @@ An interactive and visually captivating web application that brings maze-solving
 
 ![image](https://github.com/user-attachments/assets/3fc11a7c-f5cc-49c3-8161-3fa004796000)
 ![image](https://github.com/user-attachments/assets/759349a0-24e7-4264-bca2-df264d96ab42)
+![image](https://github.com/user-attachments/assets/d2428203-5213-402b-9076-8420c4ecc160)
 ![image](https://github.com/user-attachments/assets/a0de9c2d-5c75-406e-af01-f017df988abd)
 
 
